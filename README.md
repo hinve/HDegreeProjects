@@ -1,2 +1,2 @@
 # HDegreeProjects
-Java/SQL projects
+Java projects
